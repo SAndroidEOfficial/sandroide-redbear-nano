@@ -36,5 +36,5 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.0'
     testCompile 'junit:junit:4.12'
-    compile(name:'SAndroidE-v0.4', ext:'aar')
+    compile(name:'SAndroidE-v0.7', ext:'aar')
 }
